@@ -57,10 +57,6 @@ Developed two interactive dashboards to present workforce and attendance insight
 
 Selected SQL query screenshots and outputs demonstrating database analysis and business insights.
 
-![SQL Join Analysis](Screenshots/sql-join-analysis.png)
-
-![SQL Aggregation Analysis](Screenshots/sql-aggregation-analysis.png)
-
 ![SQL Business Analysis](Screenshots/sql-business-analysis.png)
 
 ## Excel Dashboard
