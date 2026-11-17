@@ -65,7 +65,7 @@ Selected SQL query screenshots and outputs demonstrating database analysis and b
 
 ## Excel Dashboard
 
-![Excel HR Analytics Dashboard](Screenshots/excel-dashboard.png)
+![Excel HR Analytics Dashboard](Screenshots/HR_dashboard.png)
 
 ## Power BI Dashboards
 
