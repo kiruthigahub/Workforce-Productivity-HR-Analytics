@@ -1,0 +1,151 @@
+Employee_ID,Employee_Name,Gender,Department,Job_Role,Monthly_Salary,Joining_Date,Resignation_Date,Resignation_Reason,Employment_Status,Location,Tenure_Days,Tenure_Years
+EMP001,Aarav Rao,Male,Finance,Financial Analyst,67609,21-08-2023,,,Active,Chennai,1136,3.11
+EMP002,Kavya Singh,Male,IT,Data Analyst,64315,18-09-2025,16-09-2026,Higher Studies,Resigned,Coimbatore,363,0.99
+EMP003,Aarav Das,Female,Operations,Operations Manager,56201,17-01-2022,,,Active,Puducherry,1717,4.7
+EMP004,Aditya Das,Female,Finance,Financial Analyst,30489,11-01-2026,,,Active,Hyderabad,262,0.72
+EMP005,Priya Rao,Male,Sales,Sales Manager,52688,10-06-2024,25-02-2025,Work-Life Balance,Resigned,Puducherry,260,0.71
+EMP006,Kavya Verma,Male,Operations,Operations Manager,49995,19-08-2022,21-12-2025,Compensation,Resigned,Chennai,1220,3.34
+EMP007,Aditi Sharma,Male,Finance,Financial Analyst,47532,12-05-2023,,,Active,Hyderabad,1237,3.39
+EMP008,Ishaan Nair,Male,Finance,Finance Executive,57621,28-06-2024,,,Active,Puducherry,824,2.26
+EMP009,Ananya Iyer,Male,Sales,Sales Executive,49942,03-06-2023,,,Active,Chennai,1215,3.33
+EMP010,Aditi Joshi,Female,IT,IT Support Specialist,51250,28-06-2022,,,Active,Chennai,1555,4.26
+EMP011,Sneha Iyer,Female,IT,IT Support Specialist,49961,29-12-2024,,,Active,Chennai,640,1.75
+EMP012,Aarav Verma,Male,Operations,Operations Manager,46260,08-01-2025,,,Active,Bengaluru,630,1.72
+EMP013,Rohan Das,Female,Finance,Accountant,19705,15-07-2022,,,Active,Hyderabad,1538,4.21
+EMP014,Pooja Sharma,Male,Operations,Operations Manager,43045,07-04-2023,16-04-2026,Relocation,Resigned,Hyderabad,1105,3.03
+EMP015,Aarav Sharma,Male,IT,Data Analyst,35048,05-02-2023,23-03-2025,Better Opportunity,Resigned,Chennai,777,2.13
+EMP016,Arjun Sharma,Male,Sales,Sales Executive,26002,18-12-2024,,,Active,Bengaluru,651,1.78
+EMP017,Sneha Das,Male,HR,HR Executive,63023,14-04-2025,,,Active,Chennai,534,1.46
+EMP018,Riya Pillai,Male,Sales,Sales Analyst,63612,08-04-2025,,,Active,Chennai,540,1.48
+EMP019,Riya Nair,Male,Operations,Operations Executive,58990,22-03-2026,,,Active,Puducherry,192,0.53
+EMP020,Rohan Pillai,Male,Finance,Accountant,45190,16-06-2025,,,Active,Coimbatore,471,1.29
+EMP021,Ishaan Sharma,Male,Finance,Financial Analyst,58883,11-06-2023,,,Active,Hyderabad,1207,3.3
+EMP022,Kavya Pillai,Female,IT,Data Analyst,42151,26-06-2022,,,Active,Hyderabad,1557,4.26
+EMP023,Riya Verma,Male,Operations,Operations Executive,44535,06-10-2024,,,Active,Chennai,724,1.98
+EMP024,Aditya Joshi,Male,Operations,Operations Manager,28332,13-02-2026,,,Active,Chennai,229,0.63
+EMP025,Sneha Shah,Female,Finance,Finance Executive,46962,21-05-2026,,,Active,Bengaluru,132,0.36
+EMP026,Sneha Pillai,Female,Sales,Sales Analyst,42755,14-01-2023,,,Active,Bengaluru,1355,3.71
+EMP027,Neha Sharma,Male,IT,IT Support Specialist,25717,24-01-2023,,,Active,Chennai,1345,3.68
+EMP028,Ananya Nair,Male,Sales,Sales Analyst,41360,03-03-2022,,,Active,Puducherry,1672,4.58
+EMP029,Aditya Rao,Female,Sales,Sales Executive,41003,20-08-2022,,,Active,Puducherry,1502,4.11
+EMP030,Kavya Gupta,Female,Finance,Accountant,64470,30-06-2024,,,Active,Coimbatore,822,2.25
+EMP031,Diya Joshi,Female,Finance,Finance Executive,53178,16-06-2024,,,Active,Chennai,836,2.29
+EMP032,Diya Das,Female,Operations,Operations Manager,42143,02-09-2023,,,Active,Coimbatore,1124,3.08
+EMP033,Vihaan Pillai,Male,IT,IT Support Specialist,45110,24-05-2023,23-04-2025,Compensation,Resigned,Puducherry,700,1.92
+EMP034,Neha Iyer,Female,IT,Software Engineer,42553,24-09-2025,12-09-2026,Work-Life Balance,Resigned,Bengaluru,353,0.97
+EMP035,Sneha Joshi,Female,IT,Software Engineer,39464,26-01-2024,,,Active,Chennai,978,2.68
+EMP036,Vihaan Iyer,Male,Sales,Sales Executive,28470,20-08-2025,13-01-2026,Better Opportunity,Resigned,Chennai,146,0.4
+EMP037,Aarav Patel,Female,Sales,Sales Executive,40112,01-05-2026,,,Active,Puducherry,152,0.42
+EMP038,Vihaan Shah,Female,IT,Software Engineer,32674,05-06-2023,,,Active,Puducherry,1213,3.32
+EMP039,Diya Singh,Male,Sales,Sales Analyst,26371,29-11-2022,26-01-2026,Compensation,Resigned,Coimbatore,1154,3.16
+EMP040,Isha Das,Male,Finance,Accountant,48390,14-04-2026,,,Active,Chennai,169,0.46
+EMP041,Diya Sharma,Male,IT,IT Support Specialist,46891,08-11-2024,31-03-2025,Relocation,Resigned,Bengaluru,143,0.39
+EMP042,Vihaan Das,Male,Operations,Process Analyst,19666,23-04-2023,,,Active,Chennai,1256,3.44
+EMP043,Aarav Sharma,Female,Finance,Accountant,40466,18-10-2024,20-02-2026,Work-Life Balance,Resigned,Chennai,490,1.34
+EMP044,Ishaan Verma,Male,IT,Data Analyst,54446,25-04-2024,04-01-2025,Better Opportunity,Resigned,Bengaluru,254,0.7
+EMP045,Ananya Shah,Male,Operations,Operations Manager,55240,26-01-2026,23-08-2026,Work-Life Balance,Resigned,Puducherry,209,0.57
+EMP046,Neha Iyer,Male,Operations,Operations Executive,54823,25-02-2023,28-09-2025,Career Growth,Resigned,Coimbatore,946,2.59
+EMP047,Rahul Rao,Male,IT,Software Engineer,42486,16-06-2026,14-07-2026,Better Opportunity,Resigned,Hyderabad,28,0.08
+EMP048,Nisha Iyer,Male,IT,Software Engineer,31437,17-03-2026,06-09-2026,Personal Reasons,Resigned,Bengaluru,173,0.47
+EMP049,Rahul Singh,Male,Finance,Finance Executive,28454,24-10-2022,,,Active,Chennai,1437,3.93
+EMP050,Meera Menon,Female,Sales,Sales Executive,46308,28-09-2022,,,Active,Puducherry,1463,4.01
+EMP051,Diya Joshi,Male,Sales,Sales Analyst,46741,25-05-2024,,,Active,Coimbatore,858,2.35
+EMP052,Rohan Das,Female,Sales,Sales Analyst,58092,15-03-2022,,,Active,Chennai,1660,4.54
+EMP053,Aditi Kumar,Male,Finance,Finance Executive,55750,06-05-2023,,,Active,Puducherry,1243,3.4
+EMP054,Neha Iyer,Male,Finance,Accountant,40347,16-12-2023,,,Active,Chennai,1019,2.79
+EMP055,Ishaan Singh,Male,Finance,Finance Executive,26447,11-05-2026,,,Active,Hyderabad,142,0.39
+EMP056,Diya Patel,Male,Finance,Finance Executive,38011,18-06-2026,30-06-2026,Career Growth,Resigned,Bengaluru,12,0.03
+EMP057,Neha Kumar,Female,IT,Data Analyst,44715,06-09-2022,,,Active,Bengaluru,1485,4.07
+EMP058,Diya Shah,Male,HR,HR Executive,39474,04-01-2026,,,Active,Hyderabad,269,0.74
+EMP059,Rohan Das,Male,Sales,Sales Manager,34776,30-05-2022,,,Active,Chennai,1584,4.34
+EMP060,Neha Singh,Female,Sales,Sales Executive,45161,14-05-2025,,,Active,Coimbatore,504,1.38
+EMP061,Arjun Iyer,Female,Finance,Financial Analyst,35701,20-10-2025,,,Active,Chennai,345,0.94
+EMP062,Ananya Gupta,Female,IT,Data Analyst,34149,02-01-2026,12-05-2026,Personal Reasons,Resigned,Bengaluru,130,0.36
+EMP063,Kavya Menon,Male,HR,HR Executive,45893,02-01-2023,,,Active,Puducherry,1367,3.74
+EMP064,Pooja Gupta,Male,Finance,Financial Analyst,36975,07-01-2026,,,Active,Coimbatore,266,0.73
+EMP065,Aditya Rao,Male,Finance,Accountant,45051,10-07-2022,21-01-2025,Personal Reasons,Resigned,Chennai,926,2.54
+EMP066,Riya Iyer,Female,HR,HR Executive,45415,01-05-2024,,,Active,Puducherry,882,2.41
+EMP067,Pooja Patel,Male,HR,HR Executive,27757,10-02-2024,14-12-2025,Career Growth,Resigned,Chennai,673,1.84
+EMP068,Vihaan Patel,Female,IT,Software Engineer,35984,03-06-2023,,,Active,Puducherry,1215,3.33
+EMP069,Priya Menon,Male,Sales,Sales Analyst,59972,06-02-2022,03-03-2025,Compensation,Resigned,Puducherry,1121,3.07
+EMP070,Nisha Das,Female,IT,IT Support Specialist,27474,21-06-2025,,,Active,Bengaluru,466,1.28
+EMP071,Neha Das,Male,Sales,Sales Executive,18000,06-07-2023,,,Active,Chennai,1182,3.24
+EMP072,Riya Menon,Male,IT,Software Engineer,18727,22-12-2024,,,Active,Coimbatore,647,1.77
+EMP073,Arjun Menon,Male,Operations,Operations Executive,42364,05-11-2023,,,Active,Chennai,1060,2.9
+EMP074,Sneha Nair,Male,Sales,Sales Analyst,42386,06-09-2023,,,Active,Bengaluru,1120,3.07
+EMP075,Pooja Kumar,Female,Sales,Sales Executive,40530,26-12-2025,,,Active,Chennai,278,0.76
+EMP076,Priya Patel,Female,IT,Data Analyst,57177,05-06-2022,,,Active,Bengaluru,1578,4.32
+EMP077,Pooja Sharma,Female,IT,Software Engineer,18000,24-04-2025,08-05-2026,Better Opportunity,Resigned,Bengaluru,379,1.04
+EMP078,Rohan Menon,Female,Finance,Accountant,46949,11-05-2025,,,Active,Chennai,507,1.39
+EMP079,Ananya Gupta,Male,HR,Recruiter,61518,16-09-2023,,,Active,Coimbatore,1110,3.04
+EMP080,Aditya Nair,Male,Finance,Financial Analyst,27903,07-03-2023,,,Active,Chennai,1303,3.57
+EMP081,Vihaan Kumar,Male,Finance,Financial Analyst,37252,09-01-2022,,,Active,Puducherry,1725,4.72
+EMP082,Rahul Kumar,Male,IT,IT Support Specialist,32589,19-03-2026,,,Active,Bengaluru,195,0.53
+EMP083,Meera Shah,Male,Operations,Process Analyst,30821,06-04-2026,,,Active,Hyderabad,177,0.48
+EMP084,Diya Das,Male,Sales,Sales Manager,37922,31-01-2023,,,Active,Puducherry,1338,3.66
+EMP085,Meera Das,Female,Sales,Sales Analyst,59844,22-02-2022,03-10-2025,Relocation,Resigned,Chennai,1319,3.61
+EMP086,Priya Patel,Female,Sales,Sales Executive,64967,21-07-2022,,,Active,Hyderabad,1532,4.19
+EMP087,Ishaan Joshi,Male,Finance,Accountant,37801,22-04-2022,,,Active,Bengaluru,1622,4.44
+EMP088,Karan Kumar,Male,IT,Software Engineer,65813,26-09-2025,,,Active,Coimbatore,369,1.01
+EMP089,Arjun Menon,Female,Sales,Sales Analyst,42445,04-01-2026,,,Active,Bengaluru,269,0.74
+EMP090,Diya Das,Male,HR,HR Executive,63921,09-09-2022,,,Active,Bengaluru,1482,4.06
+EMP091,Diya Reddy,Male,Sales,Sales Manager,40834,11-05-2025,,,Active,Chennai,507,1.39
+EMP092,Riya Gupta,Female,Finance,Financial Analyst,43638,22-10-2022,,,Active,Coimbatore,1439,3.94
+EMP093,Sneha Joshi,Female,IT,IT Support Specialist,46568,26-08-2023,,,Active,Chennai,1131,3.1
+EMP094,Meera Verma,Male,IT,IT Support Specialist,81736,11-09-2024,,,Active,Bengaluru,749,2.05
+EMP095,Aditya Verma,Male,IT,Data Analyst,52641,28-03-2025,,,Active,Chennai,551,1.51
+EMP096,Aditi Gupta,Female,Finance,Accountant,33159,07-12-2025,,,Active,Bengaluru,297,0.81
+EMP097,Isha Gupta,Male,IT,IT Support Specialist,54112,15-03-2022,,,Active,Bengaluru,1660,4.54
+EMP098,Rohan Joshi,Female,Sales,Sales Executive,37477,19-11-2022,,,Active,Chennai,1411,3.86
+EMP099,Ishaan Patel,Male,Sales,Sales Executive,35878,06-04-2023,,,Active,Coimbatore,1273,3.49
+EMP100,Diya Pillai,Female,Operations,Operations Manager,53358,25-05-2023,,,Active,Chennai,1224,3.35
+EMP101,Rahul Gupta,Male,Operations,Process Analyst,42389,27-06-2026,,,Active,Bengaluru,95,0.26
+EMP102,Aarav Rao,Female,Finance,Accountant,45482,30-06-2025,,,Active,Chennai,457,1.25
+EMP103,Vihaan Rao,Female,IT,Data Analyst,42175,11-06-2023,,,Active,Chennai,1207,3.3
+EMP104,Aditi Pillai,Male,Operations,Process Analyst,46207,15-05-2026,,,Active,Chennai,138,0.38
+EMP105,Sneha Sharma,Female,Finance,Finance Executive,47312,30-03-2024,,,Active,Puducherry,914,2.5
+EMP106,Vihaan Patel,Female,Finance,Finance Executive,18000,02-04-2024,,,Active,Puducherry,911,2.49
+EMP107,Meera Reddy,Female,IT,Software Engineer,50332,14-12-2023,,,Active,Bengaluru,1021,2.8
+EMP108,Ananya Iyer,Male,IT,Software Engineer,29725,25-08-2022,,,Active,Bengaluru,1497,4.1
+EMP109,Isha Patel,Male,Sales,Sales Analyst,23971,15-03-2026,,,Active,Bengaluru,199,0.54
+EMP110,Vihaan Joshi,Male,Operations,Operations Executive,41270,23-01-2022,10-09-2026,Compensation,Resigned,Puducherry,1691,4.63
+EMP111,Pooja Sharma,Female,IT,Software Engineer,43050,14-10-2022,,,Active,Chennai,1447,3.96
+EMP112,Neha Pillai,Female,Sales,Sales Executive,33331,13-01-2023,21-07-2025,Compensation,Resigned,Puducherry,920,2.52
+EMP113,Isha Pillai,Female,IT,Software Engineer,52388,04-04-2023,,,Active,Hyderabad,1275,3.49
+EMP114,Neha Reddy,Male,HR,HR Analyst,25223,05-08-2022,08-01-2025,Relocation,Resigned,Hyderabad,887,2.43
+EMP115,Isha Iyer,Male,Sales,Sales Executive,36913,30-01-2022,,,Active,Chennai,1704,4.67
+EMP116,Ishaan Das,Male,Operations,Operations Executive,34689,17-01-2025,03-12-2025,Work-Life Balance,Resigned,Bengaluru,320,0.88
+EMP117,Kavya Rao,Male,Finance,Finance Executive,41418,11-05-2026,,,Active,Puducherry,142,0.39
+EMP118,Diya Reddy,Female,Finance,Accountant,45486,20-07-2022,,,Active,Chennai,1533,4.2
+EMP119,Diya Singh,Male,IT,IT Support Specialist,29401,02-05-2023,,,Active,Puducherry,1247,3.41
+EMP120,Vihaan Singh,Male,HR,HR Executive,51054,11-04-2024,,,Active,Chennai,902,2.47
+EMP121,Neha Joshi,Female,HR,HR Executive,42788,03-03-2026,,,Active,Bengaluru,211,0.58
+EMP122,Neha Patel,Female,Finance,Accountant,18351,13-02-2025,,,Active,Coimbatore,594,1.63
+EMP123,Nisha Shah,Female,Sales,Sales Manager,18000,12-06-2025,,,Active,Chennai,475,1.3
+EMP124,Aditya Shah,Female,IT,Data Analyst,41846,12-08-2024,,,Active,Bengaluru,779,2.13
+EMP125,Nisha Reddy,Female,Sales,Sales Analyst,39238,16-11-2023,16-04-2026,Better Opportunity,Resigned,Bengaluru,882,2.41
+EMP126,Pooja Das,Female,HR,HR Executive,40707,25-11-2022,,,Active,Coimbatore,1405,3.85
+EMP127,Karan Sharma,Male,IT,Software Engineer,41650,20-11-2025,10-05-2026,Career Growth,Resigned,Bengaluru,171,0.47
+EMP128,Kavya Nair,Female,Sales,Sales Analyst,44819,13-08-2025,,,Active,Chennai,413,1.13
+EMP129,Nisha Gupta,Female,Sales,Sales Executive,53846,11-02-2022,,,Active,Bengaluru,1692,4.63
+EMP130,Ananya Iyer,Male,HR,Recruiter,28111,20-03-2025,,,Active,Chennai,559,1.53
+EMP131,Isha Iyer,Male,Sales,Sales Manager,27350,19-05-2022,,,Active,Coimbatore,1595,4.37
+EMP132,Neha Pillai,Male,Operations,Operations Manager,28333,28-04-2025,,,Active,Chennai,520,1.42
+EMP133,Pooja Singh,Female,HR,Recruiter,45611,18-09-2025,,,Active,Bengaluru,377,1.03
+EMP134,Riya Kumar,Male,IT,Software Engineer,57562,04-08-2022,,,Active,Puducherry,1518,4.16
+EMP135,Ishaan Pillai,Female,HR,HR Executive,36608,14-12-2023,,,Active,Chennai,1021,2.8
+EMP136,Sneha Singh,Female,Sales,Sales Manager,18000,23-07-2022,,,Active,Hyderabad,1530,4.19
+EMP137,Kavya Iyer,Male,Operations,Process Analyst,20700,20-07-2024,07-09-2025,Work-Life Balance,Resigned,Bengaluru,414,1.13
+EMP138,Diya Menon,Male,IT,Data Analyst,31587,04-03-2026,13-03-2026,Work-Life Balance,Resigned,Chennai,9,0.02
+EMP139,Sneha Reddy,Male,Finance,Financial Analyst,35028,13-05-2022,13-03-2026,Higher Studies,Resigned,Coimbatore,1400,3.83
+EMP140,Karan Rao,Male,Sales,Sales Executive,36895,15-10-2023,,,Active,Hyderabad,1081,2.96
+EMP141,Sneha Joshi,Male,IT,IT Support Specialist,42482,17-05-2026,,,Active,Chennai,136,0.37
+EMP142,Aarav Menon,Female,HR,HR Analyst,38103,10-05-2023,,,Active,Bengaluru,1239,3.39
+EMP143,Ananya Gupta,Female,Operations,Operations Manager,55117,06-08-2022,,,Active,Chennai,1516,4.15
+EMP144,Pooja Iyer,Female,HR,HR Analyst,33550,13-03-2024,,,Active,Bengaluru,931,2.55
+EMP145,Karan Iyer,Female,IT,Software Engineer,31221,14-04-2024,,,Active,Chennai,899,2.46
+EMP146,Ishaan Verma,Male,IT,Software Engineer,47986,24-12-2024,,,Active,Chennai,645,1.77
+EMP147,Pooja Sharma,Female,IT,Software Engineer,22804,31-05-2023,,,Active,Coimbatore,1218,3.33
+EMP148,Priya Nair,Male,HR,HR Analyst,46871,19-04-2026,,,Active,Coimbatore,164,0.45
+EMP149,Arjun Patel,Male,IT,Data Analyst,43282,05-05-2024,,,Active,Hyderabad,878,2.4
+EMP150,Arjun Gupta,Male,Sales,Sales Analyst,40157,16-04-2023,12-05-2026,Better Opportunity,Resigned,Coimbatore,1122,3.07
